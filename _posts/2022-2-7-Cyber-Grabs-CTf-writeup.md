@@ -7,13 +7,13 @@ categories: Ctf writeups
 ---
 
 ## Competition details
----
 [The Cyber Grabs competition 2022](https://ctftime.org/event/1556)
 
 I played under Th3 Clu3le55 0nes and managed to get 7th place among the 285 teams globally.
+---
 
 ## Forensics
----
+
 ### Mr Robot
 Challenge description:
 
@@ -28,9 +28,10 @@ Initially I tried to a lot of forensics method on it including sstv, extracting 
 After about 5 hours of trying, I checked with the admin and realised that I missed the flag. So after going through all of the process again, extracting lsb using [lsb stego](https://github.com/ragibson/Steganography) actually gives us a flag... Wasted my time on this ;-;
 
 Flag: CYBERGRABS{3VERY_8YTE_4RE_REAL_VALUE}
+---
 
 ## Web
----
+
 ### Easy web
 Challenge description:
 
@@ -62,9 +63,10 @@ Writeup:
 It was so laggy when I tried to solve this challenge but you can just get the flag by adding /flag.txt behind ur machine instance's ip address. 
 
 Flag : CyberGrabs{rabbit_under_rabbit_under_rabbithole_adios}
+---
 
 ## Reverse Engineering
----
+
 ### aah shit!
 Challenge description:
 
@@ -93,9 +95,10 @@ int __cdecl main(int argc, const char **argv, const char **envp)
 {% endhighlight %}
 
 Flag : cybergrabs{h3r3_w3_g0_4g4in!}
+---
 
 ## Osint
----
+
 ### Wayback 1
 Challenge description:
 
@@ -152,9 +155,10 @@ Writeup:
 Exif returned no coordinates on cyberchef for some reason but I opened the file in [Hex viewer](https://hexed.it/) and is able to find the geographical location and found the Leonardo Hotel Rembrandtpark, Staalmeesterslaan 410, 1057 PH Amsterdam, Netherlands
 
 Flag : flag{leonardo}
+---
 
 ## Miscellaneous
----
+
 ### First telecommunication
 Challenge description:
 
