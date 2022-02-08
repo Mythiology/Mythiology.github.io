@@ -7,6 +7,7 @@ categories: Ctf writeups
 ---
 ## Competition details
 [The Cyber Grabs competition 2022](https://ctftime.org/event/1556)
+
 I played under Th3 Clu3le55 0nes and managed to get 7th place among the 285 teams globally.
 
 ## Forensics
