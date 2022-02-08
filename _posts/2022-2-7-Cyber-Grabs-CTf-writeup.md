@@ -9,12 +9,14 @@ categories: Ctf writeups
 [The Cyber Grabs competition 2022](https://ctftime.org/event/1556)
 I played under Th3 Clu3le55 0nes and managed to get 7th place among the 285 teams globally.
 
-### Forensics
-## Mr Robot
+## Forensics
+### Mr Robot
 Challenge description:
 
 Mr. Robot most famous TV show but least people know about it.
+
 Flag Format: CYBERGRABS{}
+
 [audio file](/Cybergrabs/chall.wav)
 
 Writeup:
@@ -23,11 +25,12 @@ After about 5 hours of trying, I checked with the admin and realised that I miss
 
 Flag: CYBERGRABS{3VERY_8YTE_4RE_REAL_VALUE}
 
-### Web
-## Easy web
+## Web
+### Easy web
 Challenge description:
 
 No caption needed...
+
 Flag Format: cybergrabs{}
 
 Writeup:
@@ -40,12 +43,14 @@ Now going onto [Cyberchef](https://gchq.github.io/CyberChef/) , we can find out 
 
 Flag: cybergrabs{its_easy_web}
 
-## Rabbit
+### Rabbit
 Challenge description:
 
 Hackers, the task is to boot the machine, and, well, root it.
 This is basically just a web challenge, with one flag, flag.txt.
+
 flag format: CyberGrabs{}
+
 [This challenge was hosted on try hack me](https://tryhackme.com/room/thecybergrabs0x03web)
 
 Writeup:
@@ -53,12 +58,14 @@ It was so laggy when I tried to solve this challenge but you can just get the fl
 
 Flag : CyberGrabs{rabbit_under_rabbit_under_rabbithole_adios}
 
-### Reverse Engineering
-## aah shit!
+## Reverse Engineering
+### aah shit!
 Challenge description:
 
 Where are we going?
+
 Flag format: cybergrabs{}
+
 [file](/Cybergrabs/ahh_shit)
 
 Writeup:
@@ -81,8 +88,8 @@ int __cdecl main(int argc, const char **argv, const char **envp)
 
 Flag : cybergrabs{h3r3_w3_g0_4g4in!}
 
-### Osint
-## Wayback 1
+## Osint
+### Wayback 1
 Challenge description:
 
 Some answers are hidden in the past, Whose website theme did we “cyberange.io” used when we first went public.
@@ -93,7 +100,7 @@ Wayback suggests wayback machine, so using that we can get the flag.
 
 Flag : flag{Andrea_Galanti}
 
-## Wayback 2
+### Wayback 2
 Challenge description:
 
 Some answers are hidden in the past, Find the phone number of the person in Wayback 1
@@ -102,7 +109,7 @@ Flag Format: flag{987...5645}
 Writeup:
 I personally never tried this challenge but im pretty sure it is found on the website on sth.
 
-## Wayback 2
+### Wayback 2
 Challenge description:
 
 Some answers are hidden in the past, his number is unavailable now, find his skype id
@@ -111,7 +118,7 @@ Flag Format: flag{skypeid}
 Writeup:
 I also personally never tried this challenge but when I saw the challenge, im pretty sure you have to use [this](https://tools.epieos.com/email.php)
 
-## Hashtag
+### Hashtag
 Challenge description:
 
 Some answers are hidden in the details, Find the hashtag used by the author of this image. [Image](/Cybergrabs/meta_image.jpg)
@@ -123,7 +130,7 @@ This image has exif data encoded in it which tells you more details about the im
 
 Flag : flag{thisisawesome}
 
-## Hotel
+### Hotel
 Challenge description:
 
 Some answers are hidden in the details, Find the hotel from where this image was uploaded. [Image](/Cybergrabs/meta_image.jpg)
@@ -134,8 +141,8 @@ Exif returned no coordinates on cyberchef for some reason but I opened the file 
 
 Flag : flag{leonardo}
 
-### Miscellaneous
-## First telecommunication
+## Miscellaneous
+### First telecommunication
 Challenge description:
 
 Decode the First Telecommunication Code.
@@ -147,7 +154,7 @@ I went to [Decode identifier](https://www.dcode.fr/cipher-identifier) and found 
 
 Flag : cybergrabs{YOUGOTTHISBAUDOT}
 
-## Electronics
+### Electronics
 Challenge description:
 
 Decode it...

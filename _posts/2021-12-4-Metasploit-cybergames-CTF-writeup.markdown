@@ -3,7 +3,7 @@ layout:     post
 title:      MetaCTF CyberGames 2021
 date:       2021-12-4
 summary:    First top 25th globally
-categories: Ctf writeup
+categories: Ctf writeups
 ---
 ## Competition details
 [MetaSploit](https://ctftime.org/event/1476)
