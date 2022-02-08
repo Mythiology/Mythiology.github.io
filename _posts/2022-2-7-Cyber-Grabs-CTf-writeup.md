@@ -93,6 +93,7 @@ Flag : cybergrabs{h3r3_w3_g0_4g4in!}
 Challenge description:
 
 Some answers are hidden in the past, Whose website theme did we “cyberange.io” used when we first went public.
+
 Flag Format: flag{firstname_lastname}
 
 Writeup:
@@ -104,6 +105,7 @@ Flag : flag{Andrea_Galanti}
 Challenge description:
 
 Some answers are hidden in the past, Find the phone number of the person in Wayback 1
+
 Flag Format: flag{987...5645}
 
 Writeup:
@@ -113,6 +115,7 @@ I personally never tried this challenge but im pretty sure it is found on the we
 Challenge description:
 
 Some answers are hidden in the past, his number is unavailable now, find his skype id
+
 Flag Format: flag{skypeid}
 
 Writeup:
@@ -122,6 +125,7 @@ I also personally never tried this challenge but when I saw the challenge, im pr
 Challenge description:
 
 Some answers are hidden in the details, Find the hashtag used by the author of this image. [Image](/Cybergrabs/meta_image.jpg)
+
 Flag Format: flag{smallcasetext}
 
 Writeup:
@@ -134,6 +138,7 @@ Flag : flag{thisisawesome}
 Challenge description:
 
 Some answers are hidden in the details, Find the hotel from where this image was uploaded. [Image](/Cybergrabs/meta_image.jpg)
+
 Flag Format: flag{smallcasetext}
 
 Writeup:
@@ -146,7 +151,9 @@ Flag : flag{leonardo}
 Challenge description:
 
 Decode the First Telecommunication Code.
+
 10101 11000 00111 11010 11000 10000 10000 10100 00110 00101 11001 00011 00111 01001 11000 10000
+
 Flag Format: cybergrabs{}
 
 Writeup:
@@ -158,7 +165,9 @@ Flag : cybergrabs{YOUGOTTHISBAUDOT}
 Challenge description:
 
 Decode it...
+
 +---+++-+- -+--+++-+- -+--+-+++- -+--++-++- ---+++-++- +-++--++-- -+-+--+++- -+-+++--+- -++-+++--- -+--++-++- +-++--+-+- -+-+++--+- +-+-++--+- -+++-+-+-- +++-+---+-
+
 Flag Format: cybergrabs{lowercase}
 
 Writeup:
