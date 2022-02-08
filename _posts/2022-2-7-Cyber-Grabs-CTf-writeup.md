@@ -5,12 +5,15 @@ date:       2022-02-7 14:37
 summary:    Brain and body is dead after this one
 categories: Ctf writeups
 ---
+
 ## Competition details
+---
 [The Cyber Grabs competition 2022](https://ctftime.org/event/1556)
 
 I played under Th3 Clu3le55 0nes and managed to get 7th place among the 285 teams globally.
 
 ## Forensics
+---
 ### Mr Robot
 Challenge description:
 
@@ -27,6 +30,7 @@ After about 5 hours of trying, I checked with the admin and realised that I miss
 Flag: CYBERGRABS{3VERY_8YTE_4RE_REAL_VALUE}
 
 ## Web
+---
 ### Easy web
 Challenge description:
 
@@ -60,6 +64,7 @@ It was so laggy when I tried to solve this challenge but you can just get the fl
 Flag : CyberGrabs{rabbit_under_rabbit_under_rabbithole_adios}
 
 ## Reverse Engineering
+---
 ### aah shit!
 Challenge description:
 
@@ -90,6 +95,7 @@ int __cdecl main(int argc, const char **argv, const char **envp)
 Flag : cybergrabs{h3r3_w3_g0_4g4in!}
 
 ## Osint
+---
 ### Wayback 1
 Challenge description:
 
@@ -148,6 +154,7 @@ Exif returned no coordinates on cyberchef for some reason but I opened the file 
 Flag : flag{leonardo}
 
 ## Miscellaneous
+---
 ### First telecommunication
 Challenge description:
 
