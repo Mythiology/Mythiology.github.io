@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      The Cyber Grabs Ctf writeup
-date:       2022-02-7 14:37
+date:       2022-02-7
 summary:    Brain and body is dead after this one
 categories: Ctf writeups
 ---

@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Whitehats CTF writeup
-date:       2022-03-30 9:00
+date:       2022-03-30
 summary:    Anxiety at its finest
 categories: Ctf writeups
 ---
