@@ -25,23 +25,26 @@ Maybe this "Ng Eng Siang Kurt" has a social media or something?
 
 Writeup:
 So the challenge description asked us to find `Ng Eng Siang Kurt` social media. Initially, I thought that I will only find him on a professional / work related website since the previous challenges stated that he has started an organisation. After failing to find him on Linkedin and Facebook, I went onto instagram as my last hope and I found this account. 
-[ngengsiangkurt](https://www.instagram.com/ngengsiangkurt/?hl=en)
+
+[(ngengsiangkurt)](https://www.instagram.com/ngengsiangkurt/?hl=en)
 
 So just buy taking a look at his posts, we can already tell that there is something suspicious on his first post where it shows the straits times but the url does not reflect the same. Another thing that was suspicious was the account `not_alien_123` but lets take one step at a time first.
 
-[Suspicious url](https://shorturl.at/krA04)
+[(Suspicious url)](https://shorturl.at/krA04)
+
 Going to the suspicious url, we get the left side of the qr code which means that we still need to find the second half of the qr code. 
 
 Whenever we do this osint challenges, if we meet a deadend we need to retrace our steps and think about what else is suspicious. So lets now take a look at `not_alien_123` account.
-[not_alien_123](https://www.instagram.com/not_alien_123/?hl=en)
+
+[(not_alien_123)](https://www.instagram.com/not_alien_123/?hl=en)
 
 `A reasonable human being. Find me on TikTok!` Following this lead, we are able to his tiktok account and his one post.
 
-[suspicious post](https://www.tiktok.com/@not_alien_123/video/7066686049732398338?is_copy_url=1&is_from_webapp=v1)
+[(Susp post (Is that an amongus reference?))](https://www.tiktok.com/@not_alien_123/video/7066686049732398338?is_copy_url=1&is_from_webapp=v1)
 
 Halfway about the video there will be a short qr code being flashed which is exactly what we needed to complete our qr code. Using powerpoint presentation (i was lazy okay...), we can arrange the two halves of the qr code into one to which we can scan using our phone and get this link.
 
-[qr code link](https://pastebin.com/WW190H2W)
+[(Qr code link)](https://pastebin.com/WW190H2W)
 
 But it is password protected, this took me a while but I retraced my steps and remembered that `ngengsiangkurt` mentioned that the meaning of life is forty-two... This was kind of a cruel joke but I was just happy that I found the password before the end of the ctf.
 
