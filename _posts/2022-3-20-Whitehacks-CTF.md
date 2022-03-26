@@ -40,7 +40,7 @@ Whenever we do this osint challenges, if we meet a deadend we need to retrace ou
 
 `A reasonable human being. Find me on TikTok!` Following this lead, we are able to his tiktok account and his one post.
 
-[(Susp post (Is that an amongus reference?))](https://www.tiktok.com/@not_alien_123/video/7066686049732398338?is_copy_url=1&is_from_webapp=v1)
+[(Sus post (Is that an amongus reference?))](https://www.tiktok.com/@not_alien_123/video/7066686049732398338?is_copy_url=1&is_from_webapp=v1)
 
 Halfway about the video there will be a short qr code being flashed which is exactly what we needed to complete our qr code. Using powerpoint presentation (i was lazy okay...), we can arrange the two halves of the qr code into one to which we can scan using our phone and get this link.
 
