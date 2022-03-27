@@ -23,6 +23,7 @@ Join our Discord Server [here](https://discord.gg/eUAhxhSZdH)
 Writeup:
 After playing in ctf.sg and experiencing the sanity category, this meme represents how this challenge was to me...
 
+```
              No Sanity?
 ⠀⣞⢽⢪⢣⢣⢣⢫⡺⡵⣝⡮⣗⢷⢽⢽⢽⣮⡷⡽⣜⣜⢮⢺⣜⢷⢽⢝⡽⣝
 ⠸⡸⠜⠕⠕⠁⢁⢇⢏⢽⢺⣪⡳⡝⣎⣏⢯⢞⡿⣟⣷⣳⢯⡷⣽⢽⢯⣳⣫⠇
@@ -37,6 +38,7 @@ After playing in ctf.sg and experiencing the sanity category, this meme represen
 ⠀⠀⠀⣴⣿⣾⣿⣿⣿⡿⡽⡑⢌⠪⡢⡣⣣⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⡟⡾⣿⢿⢿⢵⣽⣾⣼⣘⢸⢸⣞⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠁⠇⠡⠩⡫⢿⣝⡻⡮⣒⢽⠋⠀⠀
+```
 
 If im going to be honest, this is the hardest challenge of whitehacks so far (no cap).
 
@@ -88,23 +90,39 @@ Reading through the pastebin, theres nothing suspicious except for the classifie
 
 
 ===== START OF CLASSIFIED SECTION =====
-
+```
 56 47 68 6c 49 47 68 31 62 57 46 75 49 47 46 77 63 47 56 68 63 6e 4d 67 64 47 
+
 38 67 59 6d 55 67 62 6d 46 74 5a 57 51 67 54 47 56 33 61 58 4d 73 49 48 4e 30 
+
 64 57 52 35 61 57 35 6e 49 47 46 30 49 47 45 67 62 47 39 6a 59 57 77 67 64 57 
+
 35 70 64 6d 56 79 63 32 6c 30 65 53 42 6f 5a 58 4a 6c 4c 67 6f 4b 53 47 55 67 
+
 59 6d 56 73 61 57 56 32 5a 53 42 30 61 47 46 30 49 43 4a 68 62 47 6c 6c 62 69 
+
 49 67 5a 58 68 70 63 33 52 7a 4c 43 42 68 62 6d 51 67 62 57 46 35 49 47 68 68 
+
 64 6d 55 67 59 57 78 6c 63 6e 52 6c 5a 43 42 6f 61 58 4d 67 5a 6e 4a 70 5a 57 
+
 35 6b 63 79 42 68 59 6d 39 31 64 43 42 31 63 79 34 4b 43 6c 64 70 62 47 77 67 
+
 62 6d 56 6c 5a 43 42 74 62 33 4a 6c 49 47 39 77 5a 58 4a 68 64 47 39 79 63 79 
+
 42 7a 5a 57 35 6b 49 48 52 76 49 48 42 79 62 33 5a 70 5a 47 55 67 5a 47 56 6d 
+
 5a 57 35 7a 5a 53 42 33 61 58 52 6f 49 48 4a 6c 5a 33 56 73 59 58 49 67 49 6e 
+
 4a 76 64 47 46 30 61 57 39 75 49 69 34 4b 43 6b 46 7a 49 47 46 73 64 32 46 35 
+
 63 79 77 67 4e 44 63 67 59 57 35 6b 49 45 74 49 5a 47 68 59 4d 6b 5a 6f 56 45 
+
 56 56 4e 56 6c 71 51 6d 74 52 56 30 30 77 57 57 78 4e 64 30 30 79 53 6b 5a 54 
+
 52 30 70 70 55 48 70 43 52 6b 39 58 53 58 64 56 4d 46 5a 71 55 54 41 30 50 53 
+
 34 3d
+```
 
 ===== END OF CLASSIFIED SECTION =====
 
