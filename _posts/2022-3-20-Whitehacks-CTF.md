@@ -12,12 +12,48 @@ categories: Ctf writeups
 I played under RVCTF TH3 CLU3LE55 0NES and managed to get 1st place among the 130 teams locally.
 
 ---
+## MISCELLANEOUS
+
+### Sanity check
+Challenge description:
+
+Welcome to Whitehacks 2022! As a sanity check, please proceed to our official Discord server and find the flag!
+Join our Discord Server [here](https://discord.gg/eUAhxhSZdH)
+
+Writeup:
+After playing in ctf.sg and experiencing the sanity category, this meme represents how this challenge was to me...
+
+             No Sanity?
+⠀⣞⢽⢪⢣⢣⢣⢫⡺⡵⣝⡮⣗⢷⢽⢽⢽⣮⡷⡽⣜⣜⢮⢺⣜⢷⢽⢝⡽⣝
+⠸⡸⠜⠕⠕⠁⢁⢇⢏⢽⢺⣪⡳⡝⣎⣏⢯⢞⡿⣟⣷⣳⢯⡷⣽⢽⢯⣳⣫⠇
+⠀⠀⢀⢀⢄⢬⢪⡪⡎⣆⡈⠚⠜⠕⠇⠗⠝⢕⢯⢫⣞⣯⣿⣻⡽⣏⢗⣗⠏⠀
+⠀⠪⡪⡪⣪⢪⢺⢸⢢⢓⢆⢤⢀⠀⠀⠀⠀⠈⢊⢞⡾⣿⡯⣏⢮⠷⠁⠀⠀
+⠀⠀⠀⠈⠊⠆⡃⠕⢕⢇⢇⢇⢇⢇⢏⢎⢎⢆⢄⠀⢑⣽⣿⢝⠲⠉⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⡿⠂⠠⠀⡇⢇⠕⢈⣀⠀⠁⠡⠣⡣⡫⣂⣿⠯⢪⠰⠂⠀⠀⠀⠀
+⠀⠀⠀⠀⡦⡙⡂⢀⢤⢣⠣⡈⣾⡃⠠⠄⠀⡄⢱⣌⣶⢏⢊⠂⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢝⡲⣜⡮⡏⢎⢌⢂⠙⠢⠐⢀⢘⢵⣽⣿⡿⠁⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠨⣺⡺⡕⡕⡱⡑⡆⡕⡅⡕⡜⡼⢽⡻⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣼⣳⣫⣾⣵⣗⡵⡱⡡⢣⢑⢕⢜⢕⡝⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣴⣿⣾⣿⣿⣿⡿⡽⡑⢌⠪⡢⡣⣣⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⡟⡾⣿⢿⢿⢵⣽⣾⣼⣘⢸⢸⣞⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠁⠇⠡⠩⡫⢿⣝⡻⡮⣒⢽⠋⠀⠀
+
+If im going to be honest, this is the hardest challenge of whitehacks so far (no cap).
+
+So from the challenge description, we are told to go to their discord server and find the flag. Make sure to check through every single text channel and the history to see if the flag has been posted there. If you look for it hard enough, you will find it in the description of the channel #flag
+
+To be entirely honest, you can actually find the flag before the ctf even started through discord plugins on chrome that allows u to see hidden vc and hidden text channels even though you do not have the permissions.
+
+Flag: WH2022{w3lc0m3_t0_wh2022}
+---
+
+
+---
 ## OSINT
 
 ### The War of The Worlds 2 - Humans or ET?
-Challenge description:
-
 Difficulty: Medium
+Challenge description:
 
 Hmm, I think it may be worth taking a deeper look at this Kurt person. See if they have something to do with Lewis' disappearance. Be careful though, make sure that he doesn't know that you are investigating him.
 
@@ -50,8 +86,9 @@ But it is password protected, this took me a while but I retraced my steps and r
 
 Reading through the pastebin, theres nothing suspicious except for the classified section.
 
-`
+
 ===== START OF CLASSIFIED SECTION =====
+
 56 47 68 6c 49 47 68 31 62 57 46 75 49 47 46 77 63 47 56 68 63 6e 4d 67 64 47 
 38 67 59 6d 55 67 62 6d 46 74 5a 57 51 67 54 47 56 33 61 58 4d 73 49 48 4e 30 
 64 57 52 35 61 57 35 6e 49 47 46 30 49 47 45 67 62 47 39 6a 59 57 77 67 64 57 
@@ -68,8 +105,9 @@ Reading through the pastebin, theres nothing suspicious except for the classifie
 56 56 4e 56 6c 71 51 6d 74 52 56 30 30 77 57 57 78 4e 64 30 30 79 53 6b 5a 54 
 52 30 70 70 55 48 70 43 52 6b 39 58 53 58 64 56 4d 46 5a 71 55 54 41 30 50 53 
 34 3d
+
 ===== END OF CLASSIFIED SECTION =====
-`
+
 
 Chucking this into cyberchef and using the from hex feature. We get this...
 
