@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Lag and crash 2.0
-date:       2022-25-3
+date:       2022-3-25
 summary:    Busy :<
 categories: Ctf writeups
 ---

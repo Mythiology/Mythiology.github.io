@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Cyber league major 1
-date:       2022-1-5
+date:       2022-5-1
 summary:    Busy :<
 categories: Ctf writeups
 ---

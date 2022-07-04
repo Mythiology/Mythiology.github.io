@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Cyberthon 2022
-date:       2022-7-5
+date:       2022-5-7
 summary:    Busy :<
 categories: Ctf writeups
 ---
