@@ -47,6 +47,7 @@ So from the challenge description, we are told to go to their discord server and
 To be entirely honest, you can actually find the flag before the ctf even started through discord plugins on chrome that allows u to see hidden vc and hidden text channels even though you do not have the permissions.
 
 Flag: WH2022{w3lc0m3_t0_wh2022}
+
 ---
 
 
@@ -129,7 +130,9 @@ Reading through the pastebin, theres nothing suspicious except for the classifie
 
 Chucking this into cyberchef and using the from hex feature. We get this...
 
+```
 VGhlIGh1bWFuIGFwcGVhcnMgdG8gYmUgbmFtZWQgTGV3aXMsIHN0dWR5aW5nIGF0IGEgbG9jYWwgdW5pdmVyc2l0eSBoZXJlLgoKSGUgYmVsaWV2ZSB0aGF0ICJhbGllbiIgZXhpc3RzLCBhbmQgbWF5IGhhdmUgYWxlcnRlZCBoaXMgZnJpZW5kcyBhYm91dCB1cy4KCldpbGwgbmVlZCBtb3JlIG9wZXJhdG9ycyBzZW5kIHRvIHByb3ZpZGUgZGVmZW5zZSB3aXRoIHJlZ3VsYXIgInJvdGF0aW9uIi4KCkFzIGFsd2F5cywgNDcgYW5kIEtIZGhYMkZoVEVVNVlqQmtRV00wWWxNd00ySkZTR0ppUHpCRk9XSXdVMFZqUTA0PS4=
+```
 
 Chucking it in again and using from base 64 this time. we get this message
 
